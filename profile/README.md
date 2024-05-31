@@ -1,9 +1,11 @@
 WE ARE VACANT, dm me on `avalynndev` discord if you are willing to join..
 
-## Hi there 👋
+## Our Projects 🍿
 
 [![card](https://github-readme-stats.vercel.app/api/pin/?username=InfiniteDevs&repo=vegenta&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/InfiniteDevs/vegenta)
 [![card](https://github-readme-stats.vercel.app/api/pin/?username=InfiniteDevs&repo=animunet&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/InfiniteDevs/animunet)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=InfiniteDevs&repo=animetize-api&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/InfiniteDevs/animetize-api)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=InfiniteDevs&repo=subrey&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/InfiniteDevs/subrey)
 
 <!--
 
